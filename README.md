@@ -6,7 +6,7 @@ widow.alert('this is a Alert Box');
 ```
 ![javascript-alert2](https://user-images.githubusercontent.com/95132246/143727901-18755747-eb6a-4880-94e6-68e26e5ba763.png)
 
-### Second File
+### Second Alert Box
 ```
 window.alert('This is a second Box');
 ```
