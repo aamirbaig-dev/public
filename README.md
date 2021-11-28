@@ -1,4 +1,4 @@
-#this is documentation of learing JavaScript 
+# this is documentation of learing JavaScript 
 ## Topic: Working with window.object
 ### How to show alert
 ```
