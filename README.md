@@ -8,5 +8,6 @@ widow.alert('this is a Alert Box');
 
 ### Second File
 ```
-![App Screenshot](https://i.imgur.com/1cNPOBJ.pngJ)
+window.alert('This is a second Box');
 ```
+![App Screenshot](https://i.imgur.com/1cNPOBJ.pngJ)
